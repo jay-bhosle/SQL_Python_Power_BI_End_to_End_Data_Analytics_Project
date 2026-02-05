@@ -15,10 +15,10 @@ This repository showcases a complete data-analytics pipeline for a global electr
 - `Assignment.txt` — Problem statement and analysis prompts.
 
 ## Key questions addressed
-- What products does the company sell, and where are customers located?【F:Assignment.txt†L1-L4】
-- What seasonal patterns or trends exist in order volume or revenue?【F:Assignment.txt†L3-L4】
-- How long is the average delivery time, and how has it changed?【F:Assignment.txt†L5-L6】
-- Is average order value different for online vs. in-store sales?【F:Assignment.txt†L7-L8】
+- What products does the company sell, and where are customers located?
+- What seasonal patterns or trends exist in order volume or revenue?
+- How long is the average delivery time, and how has it changed?
+- Is average order value different for online vs. in-store sales?
 
 ## How to use
 1. Review the SQL in `1.SQL.sql` to understand data extraction and transformations.
